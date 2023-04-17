@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Mankin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=M4nk1n&count_private=true&include_all_commits=true&theme=dracula)](https://github.com/M4nk1n)
+
+[![Mankin's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=M4nk1n&langs_count=10&theme=dracula)](https://github.com/M4nk1n)
